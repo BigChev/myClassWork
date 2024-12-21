@@ -8,7 +8,7 @@ function setup() {
 
  {
    /The draw function happens over and over again
-function draw() {
+function draw() 
    //an RGB color for the canvas' background
   //circle
   stroke(255,255,5); // an RGB color for the circle's border
@@ -16,11 +16,11 @@ function draw() {
 
 	
   fill(250,250,250);
-  stroke(0,0,0);
+  stroke(0,0,0)
   rect(110,110,280,130, 5); // give all corners a radius of 5.
 
   stroke(0,0,0);
-  strokeWeight(2);
+  strokeWeight(2)
   line(375,152,120,152);
 
    stroke(0,0,0);
