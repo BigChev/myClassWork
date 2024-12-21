@@ -1,0 +1,32 @@
+body{background-color: #FFD1DC}
+h1{
+	color: #FFFDD0 ;
+	font-family: TIMES NEW ROMAN ;
+	font-size: 40px;
+	text-align: center;
+	background-color: #ADD8E6;
+ }
+
+ p{
+ 	color: #111111;
+ 	font-family: monospace;
+ 	font-size: 15px;
+ }
+
+ a{
+ 	text-decoration: none;
+ 	color: #FF69B4;
+ 	font-size: 15px;
+ }
+
+ ul{list-style: none;
+ }
+
+ li{
+ 	display: inline;
+ 	margin: 45px;
+ 	text-align: center;
+ 	padding: 15px;
+
+ }
+ img
