@@ -16,11 +16,11 @@ function setup() {
   rect(110,110,280,130, 5); // give all corners a radius of 5.
 
   stroke(0,0,0);
-  strokeWeight(2)
+  strokeWeight(2);
   line(375,152,120,152);
 
    stroke(0,0,0);
-   strokeWeight(2)
+   strokeWeight(2):
   line(375,192,120,192);
   
   stroke(250,250,250);
