@@ -14,7 +14,6 @@ function draw() {
   stroke(255,255,5); // an RGB color for the circle's border
   fill(255,spongebob,127,150); 
 
-
 	
   fill(250,250,250);
   stroke(0,0,0);
@@ -40,6 +39,7 @@ function draw() {
   textFont("Times New Roman");
   textSize(21);
   text("By Unknown",190,190);
+
 
 
 	
