@@ -6,21 +6,19 @@ function setup() {
   background (0,0,0);
 }
 
- {
-   /The draw function happens over and over again
-function draw() 
-   //an RGB color for the canvas' background
-  //circle
+ 
+  
+{
   stroke(255,255,5); // an RGB color for the circle's border
   fill(255,spongebob,127,150); 
 
 	
   fill(250,250,250);
-  stroke(0,0,0)
+  stroke(0,0,0);
   rect(110,110,280,130, 5); // give all corners a radius of 5.
 
   stroke(0,0,0);
-  strokeWeight(2)
+  strokeWeight(2);
   line(375,152,120,152);
 
    stroke(0,0,0);
