@@ -7,7 +7,7 @@ function setup() {
 }
 
  
-  
+function draw()
 {
   stroke(255,255,5); // an RGB color for the circle's border
   fill(255,spongebob,127,150); 
@@ -22,7 +22,7 @@ function setup() {
   line(375,152,120,152);
 
    stroke(0,0,0);
-   strokeWeight(2):
+   strokeWeight(2);
   line(375,192,120,192);
   
   stroke(250,250,250);
