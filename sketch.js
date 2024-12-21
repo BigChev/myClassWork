@@ -12,7 +12,7 @@ function draw() {
    //an RGB color for the canvas' background
   //circle
   stroke(255,255,5); // an RGB color for the circle's border
-  fill(255,spongebob,127,150); // an RGB color for the inside of the circle (the last number refers to transparency (min. 0, max. 255))
+  fill(255,spongebob,127,150); 
   
 
   
